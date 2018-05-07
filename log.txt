@@ -1,0 +1,17 @@
+commit dabb49cd4410bfc177a5a47bae0e10b370e7eddd
+Author: mperez1992 <perezcarrillomanuel@gamil.com>
+Date:   Mon May 7 15:22:36 2018 -0400
+
+    enexo de parrafos
+
+commit 60bf54d2b97a58f35c38c3933030e29c5ca3ad56
+Author: mperez1992 <perezcarrillomanuel@gamil.com>
+Date:   Mon May 7 15:20:07 2018 -0400
+
+    modificacion de titulo
+
+commit fe8f8c9a5f86ecc82805ede84525bb15f6fde669
+Author: mperez1992 <perezcarrillomanuel@gamil.com>
+Date:   Mon May 7 15:02:19 2018 -0400
+
+    nuevos cambios
